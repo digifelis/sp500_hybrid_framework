@@ -1,0 +1,5 @@
+benchmark,n_tickers,RIME-LSTM_significantly_better,ARIMA_significantly_better,not_significant,GRU_significantly_better,LSTM_significantly_better,MGO-LSTM_significantly_better
+ARIMA,25,0,20.0,5,,,
+GRU,25,3,,7,15.0,,
+LSTM,25,17,,5,,3.0,
+MGO-LSTM,25,9,,7,,,9.0

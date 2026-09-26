@@ -1,0 +1,11 @@
+# PyTorch — CPU (default pip):
+torch>=2.2
+# GPU (CUDA 12.4, RTX serisi): önce torch'u şu komutla kurun:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+# CPU'ya zorlamak için: set TORCH_DEVICE=cpu
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+statsmodels>=0.14
+matplotlib>=3.7
+scipy>=1.11

@@ -1,0 +1,4 @@
+n_obs,n_boot,sharpe_a,sharpe_b,observed_diff,ci_95_lower,ci_95_upper,p_value,significant_5pct,strategy_a,strategy_b,interpretation
+378,2000,1.1983260978494739,1.155781452973896,0.042544644875577964,-0.7791550173494162,1.1279576965598819,0.87,False,DandelionOptimizer,Markowitz,no significant difference
+378,2000,1.1983260978494739,1.1123119058249586,0.08601419202451521,-0.5057258007170714,0.7728156932451149,0.757,False,DandelionOptimizer,EqualWeight,no significant difference
+378,2000,1.1983260978494739,0.7790852962671988,0.41924080158227506,-0.33184431386438995,1.4138431945659415,0.272,False,DandelionOptimizer,BuyAndHoldIndex,no significant difference
