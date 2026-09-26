@@ -175,9 +175,10 @@ The manuscript numbering above follows the requested reviewer-response mapping. 
 
 ## Author contributions
 
-[TODO: yazar dolduracak]
-
-Please identify which authors designed, implemented, ran, verified, and wrote each component before submitting the reviewer response.
+Assoc. Prof. Dr. Mansur BEŞTAŞ
+Bitlis Eren University, Faculty of Economics and Administrative Sciences, Business Administration
+mbestas@beu.edu.tr
+0000-0002-8192-2044
 
 ## Known limitations and unresolved items
 
